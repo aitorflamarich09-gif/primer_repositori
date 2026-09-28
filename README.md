@@ -1,2 +1,4 @@
-# primer_repositori
-Aquest es el meu primer repositori al github
+Projecte 2
+
+Aitor Flamarich Palacios
+SMXA
