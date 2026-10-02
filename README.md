@@ -107,3 +107,7 @@ Una vegada li donem a Restart Now, tenim que iniciar sesio amb les dades de avan
 Una vegada ya hem iniciat sesio ya podem utilitar la maquina per el que necesitem.
 
 ![Fi](/img/Fi.png)
+
+
+## 5 Conclusions
+Aixo es un tutorial guiat per alguna persona que no sapiga instalar una maquina virtual Zorin, esta explicat pas a pas tot el que necesites fer per que pugis utilitzar la maquina virutal sensa cap mena de problema.
