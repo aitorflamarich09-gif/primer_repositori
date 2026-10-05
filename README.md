@@ -13,12 +13,31 @@ En aquesta documentacio hos explicare a crear una maquina virtual de Zorin a Vir
 * Imatge ISO de Zorin
 * Connexió a Internet
 
-## 1️ Instal·lar VirtualBox
+## 1️ Instal·lar VirtualBox i conseguir la ISO
 
 Primer descarreguem i instal·lem VirtualBox.
 
 ![Imatge descarega](/img/image.png)
 Seguim els passos de l'instal·lador fins a finalitzar la instal·lació.
+
+Una vegada ya tenim el VirtualBox instl·lat, tenim que aconseguir la iso que volem, en aquest cas es la ISO de Zorin.
+
+
+Per aconseguirla, nomes tenim que buscar Zorin iso a google i entrem en el primer enllaç que es diu zorin.
+
+![Zorin Iso google](/img/Zorin%20Google.png)
+
+Una vegada entrem en el enllaç, tenim que anar al apartat on 
+ens posen 2 opcion Zorin core i el Zorin education.
+
+ ![Tipus de zorin](/img/Zorin%20version.png)
+
+ Tenim que escollir la versio Core, una vegada li donem ens surtira un apartat per posar el nostre email, li donem en la part de abaix on posa skip, una vegada li donem ens començara a descargar la ISO
+
+ ![Zorin ISO](/img/Iso.png)
+ 
+ Aqui teniu l'enças directa a la descarega:
+   -  https://zorin.com/os/download/18/core/
 
 ## 2️ Crear la màquina virtual
 
@@ -29,6 +48,7 @@ Obrim VirtualBox i seleccionem Nova.
 Introduïm el nom de la màquina virtual, despres posem el lloc hon volem que es guardi la maquina i despres tenim que selecionar la iso.
 
 ![Creacio maquina](/img/Maquina.png)
+
 
 
 
